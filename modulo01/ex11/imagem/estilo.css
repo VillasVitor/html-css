@@ -1,0 +1,12 @@
+body {
+    background: hwb(224 0% 0% / 0.938);
+    font: normal 15pt Arial;
+    text-align: center;
+}
+
+h1{
+    color: aliceblue(17, 17, 17);
+    text-align: center;
+
+}
+
